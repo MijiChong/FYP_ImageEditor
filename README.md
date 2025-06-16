@@ -4,7 +4,13 @@
 
 Please activate virtual environment before use the code:
 
--->quality\Scripts\activate
+--> quality\Scripts\activate
+
+#The datasets are all getting from ChartQA: https://github.com/vis-nlp/ChartQA.git
+
+================================================================
+
+# Image Editors
 
 Color_bgr.py --> Remove Image Background
 
@@ -24,8 +30,28 @@ ratioRsz.py --> Resize Image Pixels based on Ratio
 
 resize.py --> Resize Image Pixels
 
+=================================================================
+
+# Image and Results Calculators
+
 percent.py --> Calculate RMSE & Percentage Difference of RMSE (using Mean)
 
 psnr.py --> Calculate PSNR & SSIM
 
 qualityTest.py --> Calculate Image Quality 
+
+=================================================================
+
+# Image Order 
+
+For dataset-Blur & Noise --> order.csv
+
+For dataset - Pixel & Color --> newOrder.csv
+
+================================================================
+
+# Files Rename
+
+R.py --> Add 'R' behind original file name
+
+noR.py --> Remove 'R' behind original file name 
