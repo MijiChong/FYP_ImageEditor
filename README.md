@@ -1,5 +1,5 @@
 ﻿# FYP_ImageEditor
 
-#Reminder#
+#Reminder# /n
 Please activate virtual environment before use the code:
 -->quality\Scripts\activate
