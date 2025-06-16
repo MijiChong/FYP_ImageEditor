@@ -1,0 +1,10 @@
+Flight Type,Energy Intensity (kWh per passengerkm)
+Aircraft,0.05
+Water,0.35
+Bus,0.4
+Rail,0.6
+Van,1.2
+Car,2.2
+Bicycle,44.6
+Pedestrian,54.2
+Motorcycle,108.9
