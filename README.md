@@ -1,5 +1,9 @@
 ﻿# FYP_ImageEditor
 
+#Purpose#
+
+This is for Year 3 Final Year Project purpose. All editors and models are workable on each type of images. The calculation models is for image quality evaluation and table result comparison.
+
 #Reminder# 
 
 Please activate virtual environment before use the code:
